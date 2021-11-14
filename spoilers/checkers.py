@@ -119,7 +119,7 @@ def solve(args):
     
 if __name__ == '__main__':
     description = """ This puzzle hides the message as braille on an NxN checkers board.
-    It is recommended for the braillie equivalent to be exactly 8 dots wide so as to
+    It is recommended for the braille equivalent to be exactly 8 dots wide so as to
     maintain the illusion of a standard checkers board. """
     parser = ArgumentParser(description=description)
     parser.add_argument('--code', default='FEEL', type=str, help='message to hide')
