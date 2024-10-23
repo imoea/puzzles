@@ -2,7 +2,7 @@
 
 ## **SPOILERS**
 
-These scripts generate the puzzles that can be found [here](http://imoea.github.io/hello).  
+These scripts generate the puzzles that can be found [here](http://imoea.github.io/#crumb).  
 Please refrain from reading them if you are attempting to solve them!  
 **YOU HAVE BEEN WARNED!**
 
